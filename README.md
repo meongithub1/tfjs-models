@@ -29,7 +29,7 @@ and can be used as building blocks in other apps.
   <tr>
     <td rowspan="10"><b>Images</b></td>
     <td rowspan="2"><b><a style="white-space:nowrap; display:inline-block;" href="./mobilenet"><div style='vertical-align:middle; display:inline;'>MobileNet</div></a></b></td>
-    <td><a href=""></a></td>
+    <td style="display:none;"><a href=""></a></td>
     <td rowspan="2">Classify images with labels from the <a href="http://www.image-net.org/">ImageNet database</a>.</td>
     <td rowspan="2"><code>npm i @tensorflow-models/mobilenet</code></td>
   </tr>
@@ -49,7 +49,7 @@ and can be used as building blocks in other apps.
   <!-- ** Coco SSD -->
   <tr>
     <td rowspan="2"><b><a style="white-space:nowrap; display:inline-block;" href="./coco-ssd"><div style='vertical-align:middle; display:inline;'>Coco SSD</div></a></b></td>
-    <td><a href=""></a></td>
+    <td style="display:none;"><a href=""></a></td>
     <td rowspan="2">Object detection model that aims to localize and identify multiple objects in a single image. Based on the <a href="https://github.com/tensorflow/models/blob/master/research/object_detection/README.md">TensorFlow object detection API</a>.</td>
     <td rowspan="2"><code>npm i @tensorflow-models/coco-ssd</code></td>
   </tr>
@@ -69,7 +69,7 @@ and can be used as building blocks in other apps.
     <!-- ** DeepLab -->
   <tr>
     <td rowspan="2"><b><a style="white-space:nowrap; display:inline-block;" href="./deeplab"><div style='vertical-align:middle; display:inline;'>DeepLab v3</div></a></b></td>
-    <td><a href=""></a></td>
+    <td style="display:none;"><a href=""></a></td>
     <td rowspan="2">Semantic segmentation</td>
     <td rowspan="2"><code>npm i @tensorflow-models/deeplab</code></td>
   </tr>
@@ -93,7 +93,7 @@ and can be used as building blocks in other apps.
   <tr>
     <td rowspan="4"><b>Text</b></td>
     <td rowspan="2"><b><a style="white-space:nowrap; display:inline-block;" href="./universal-sentence-encoder"><div style='vertical-align:middle; display:inline;'>Universal Sentence Encoder</div></a></b></td>
-    <td><a href=""></a></td>
+    <td style="display:none;"><a href=""></a></td>
     <td rowspan="2">Encode text into a 512-dimensional embedding to be used as inputs to natural language processing tasks such as sentiment classification and textual similarity.</td>
     <td rowspan="2"><code>npm i @tensorflow-models/universal-sentence-encoder</code></td>
   </tr>
@@ -115,7 +115,7 @@ and can be used as building blocks in other apps.
     <td rowspan="2"><b>General Utilities</b></td>
   <!-- ** KNN Classifier -->
     <td rowspan="2"><b><a style="white-space:nowrap; display:inline-block;" href="./knn-classifier"><div style='vertical-align:middle; display:inline;'>KNN Classifier</div></a></b></td>
-    <td><a href=""></a></td>
+    <td style="display:none;"><a href=""></a></td>
     <td rowspan="2">This package provides a utility for creating a classifier using the K-Nearest Neighbors algorithm. Can be used for transfer learning.</td>
     <td rowspan="2"><code>npm i @tensorflow-models/knn-classifier</code></td>
   </tr>
